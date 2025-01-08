@@ -1,6 +1,6 @@
     # Privacy Policy
 
-**Last updated: [Insert Date]**
+**Last updated: January 8, 2025**
 
 QfarAf Dictionary ("the app") is developed by Leul Eyasu and does not collect, store, or share any personal or sensitive user data.
 
@@ -20,6 +20,6 @@ This Privacy Policy may be updated from time to time. We encourage users to revi
 If you have any questions about this Privacy Policy, please contact us at:
 
 **Email**: leuleyasu7@gmail.com  
-**Address**: [Your Company Address, if applicable]
+**Address**: Addis Ababa
 
 Thank you for using QfarAf Dictionary !
